@@ -77,8 +77,8 @@ Qualquer alteração será comunicada através de:
 ## 9. Contato
 
 Para dúvidas sobre privacidade ou a extensão:
-- GitHub: [https://github.com/SEU-USUARIO/seletor-colunas-chrome](https://github.com/SEU-USUARIO/seletor-colunas-chrome)
-- Email: seu-email@exemplo.com
+- GitHub: [https://github.com/diogo-dsa/seletor-colunas-chrome](https://github.com/SEU-USUARIO/seletor-colunas-chrome)
+- Email: diogo.dsa.antunes@gmail.com
 
 ## 10. Conformidade
 
